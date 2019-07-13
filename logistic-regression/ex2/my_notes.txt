@@ -1,0 +1,7 @@
+Exercise 2 notes:
+
+PlotDecisionBoundary:
+    follow the reference link :https://www.coursera.org/learn/machine-learning/module/mgpv7/discussions/ILWHp3g3EeWy9BLlActDnw/replies/x7zTn3hHEeWDzg4yGnIlTw/comments/DY3K83hJEeWy9BLlActDnw
+
+costFunctonRegularized:
+    As for regularizing, we do not want to regularize theta(1), so swe shift the theta while calculating the cost function
